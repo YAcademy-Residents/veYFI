@@ -27,3 +27,9 @@ See [brownie setup](https://eth-brownie.readthedocs.io/en/stable/install.html)
 ```
 brownie test
 ```
+
+or 
+
+```
+brownie test --coverage
+```
